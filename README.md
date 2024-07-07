@@ -1,0 +1,1 @@
+Creating a recipe website following the course "Project: Recipes" on The Odin Project
